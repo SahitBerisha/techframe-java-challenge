@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Water",
+    "productType": "BOTTLE",
+    "quantity": 240,
+    "price": 0.25,
+    "discount": 0.00,
+    "vat": 8
+  },
+  {
+    "name": "Chips",
+    "productType": "PIECE",
+    "quantity": 38,
+    "price": 2.40,
+    "discount": 0.00,
+    "vat": 8
+  },
+  {
+    "name": "TV",
+    "productType": "PIECE",
+    "quantity": 1,
+    "price": 760,
+    "discount": 0.00,
+    "vat": 22
+  },
+  {
+    "name": "Coca Cola",
+    "productType": "PIECE",
+    "quantity": 77,
+    "price": 0.50,
+    "discount": 0.10,
+    "vat": 18
+  },
+  {
+    "name": "Chocolate",
+    "productType": "PIECE",
+    "quantity": 38,
+    "price": 1.25,
+    "discount": 0.00,
+    "vat": 22
+  },
+  {
+    "name": "Hand Soap",
+    "productType": "BOTTLE",
+    "quantity": 92,
+    "price": 3.78,
+    "discount": 0.00,
+    "vat": 8
+  },
+  {
+    "name": "Fish Meat",
+    "productType": "KG",
+    "quantity": 49,
+    "price": 8.30,
+    "discount": 0.00,
+    "vat": 18
+  },
+  {
+    "name": "Humus",
+    "productType": "PACKAGE",
+    "quantity": 16,
+    "price": 2.66,
+    "discount": 0.00,
+    "vat": 18
+  },
+  {
+    "name": "White Wine",
+    "productType": "BOTTLE",
+    "quantity": 18,
+    "price": 9.20,
+    "discount": 0.02,
+    "vat": 18
+  },
+  {
+    "name": "Bananas",
+    "productType": "KG",
+    "quantity": 8,
+    "price": 1.25,
+    "discount": 0.00,
+    "vat": 22
+  },
+  {
+    "name": "Wine",
+    "productType": "BOTTLE",
+    "quantity": 22,
+    "price": 9.78,
+    "discount": 0.00,
+    "vat": 22
+  },
+  {
+    "name": "Oil",
+    "productType": "LITER",
+    "quantity": 10,
+    "price": 8.30,
+    "discount": 0.00,
+    "vat": 18
+  },
+  {
+    "name": "Cigarettes",
+    "productType": "PACKAGE",
+    "quantity": 89,
+    "price": 5.46,
+    "discount": 0.00,
+    "vat": 22
+  },
+  {
+    "name": "Cookies",
+    "productType": "PACK",
+    "quantity": 33,
+    "price": 1.34,
+    "discount": 0.00,
+    "vat": 8
+  },
+  {
+    "name": "Yogurts",
+    "productType": "PIECE",
+    "quantity": 14,
+    "price": 0.66,
+    "discount": 0.00,
+    "vat": 18
+  },
+  {
+    "name": "Bleach",
+    "productType": "PACKAGE",
+    "quantity": 11,
+    "price": 1.23,
+    "discount": 0.00,
+    "vat": 22
+  },
+  {
+    "name": "Napkins",
+    "productType": "PACKAGE",
+    "quantity": 85,
+    "price": 0.21,
+    "discount": 0.00,
+    "vat": 8
+  },
+  {
+    "name": "Eggs",
+    "productType": "PIECE",
+    "quantity": 104,
+    "price": 0.16,
+    "discount": 0.00,
+    "vat": 18
+  },
+  {
+    "name": "Plastic Bags",
+    "productType": "PIECE",
+    "quantity": 398,
+    "price": 0.05,
+    "discount": 0.00,
+    "vat": 18
+  },
+  {
+    "name": "Aluminium Foils",
+    "productType": "PIECE",
+    "quantity": 21,
+    "price": 1.12,
+    "discount": 0.00,
+    "vat": 8
+  },
+  {
+    "name": "Razors",
+    "productType": "PIECE",
+    "quantity": 51,
+    "price": 8.10,
+    "discount": 0.00,
+    "vat": 8
+  },
+  {
+    "name": "Lotions",
+    "productType": "PIECE",
+    "quantity": 205,
+    "price": 12,
+    "discount": 0.00,
+    "vat": 22
+  }
+]

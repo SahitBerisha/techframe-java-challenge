@@ -1,0 +1,185 @@
+[ {
+  "orderId" : 1,
+  "subTotal" : 443.20,
+  "vat" : 52.41,
+  "total" : 495.61,
+  "products" : [ {
+    "name" : "Water",
+    "productType" : "BOTTLE",
+    "quantity" : 50,
+    "price" : 0.25,
+    "discount" : 0.00,
+    "vat" : 8
+  }, {
+    "name" : "Chips",
+    "productType" : "PIECE",
+    "quantity" : 38,
+    "price" : 2.40,
+    "discount" : 0.00,
+    "vat" : 8
+  }, {
+    "name" : "Coca Cola",
+    "productType" : "PIECE",
+    "quantity" : 50,
+    "price" : 0.50,
+    "discount" : 0.10,
+    "vat" : 18
+  }, {
+    "name" : "Chocolate",
+    "productType" : "PIECE",
+    "quantity" : 38,
+    "price" : 1.25,
+    "discount" : 0.00,
+    "vat" : 22
+  }, {
+    "name" : "Hand Soap",
+    "productType" : "BOTTLE",
+    "quantity" : 50,
+    "price" : 3.78,
+    "discount" : 0.00,
+    "vat" : 8
+  }, {
+    "name" : "Fish Meat",
+    "productType" : "KG",
+    "quantity" : 10,
+    "price" : 8.30,
+    "discount" : 0.00,
+    "vat" : 18
+  } ]
+}, {
+  "orderId" : 2,
+  "subTotal" : 760.00,
+  "vat" : 167.20,
+  "total" : 927.20,
+  "products" : [ {
+    "name" : "TV",
+    "productType" : "PIECE",
+    "quantity" : 1,
+    "price" : 760,
+    "discount" : 0.00,
+    "vat" : 22
+  } ]
+}, {
+  "orderId" : 2,
+  "subTotal" : 429.20,
+  "vat" : 61.69,
+  "total" : 490.89,
+  "products" : [ {
+    "name" : "Water",
+    "productType" : "BOTTLE",
+    "quantity" : 50,
+    "price" : 0.25,
+    "discount" : 0.00,
+    "vat" : 8
+  }, {
+    "name" : "Coca Cola",
+    "productType" : "PIECE",
+    "quantity" : 27,
+    "price" : 0.50,
+    "discount" : 0.10,
+    "vat" : 18
+  }, {
+    "name" : "Hand Soap",
+    "productType" : "BOTTLE",
+    "quantity" : 42,
+    "price" : 3.78,
+    "discount" : 0.00,
+    "vat" : 8
+  }, {
+    "name" : "Humus",
+    "productType" : "PACKAGE",
+    "quantity" : 16,
+    "price" : 2.66,
+    "discount" : 0.00,
+    "vat" : 18
+  }, {
+    "name" : "White Wine",
+    "productType" : "BOTTLE",
+    "quantity" : 18,
+    "price" : 9.20,
+    "discount" : 0.02,
+    "vat" : 18
+  }, {
+    "name" : "Bananas",
+    "productType" : "KG",
+    "quantity" : 8,
+    "price" : 1.25,
+    "discount" : 0.00,
+    "vat" : 22
+  }, {
+    "name" : "Wine",
+    "productType" : "BOTTLE",
+    "quantity" : 3,
+    "price" : 9.78,
+    "discount" : 0.00,
+    "vat" : 22
+  } ]
+}, {
+  "orderId" : 3,
+  "subTotal" : 418.66,
+  "vat" : 80.61,
+  "total" : 499.27,
+  "products" : [ {
+    "name" : "Water",
+    "productType" : "BOTTLE",
+    "quantity" : 50,
+    "price" : 0.25,
+    "discount" : 0.00,
+    "vat" : 8
+  }, {
+    "name" : "Oil",
+    "productType" : "LITER",
+    "quantity" : 10,
+    "price" : 8.30,
+    "discount" : 0.00,
+    "vat" : 18
+  }, {
+    "name" : "Cigarettes",
+    "productType" : "PACKAGE",
+    "quantity" : 50,
+    "price" : 5.46,
+    "discount" : 0.00,
+    "vat" : 22
+  }, {
+    "name" : "Cookies",
+    "productType" : "PACK",
+    "quantity" : 33,
+    "price" : 1.34,
+    "discount" : 0.00,
+    "vat" : 8
+  }, {
+    "name" : "Yogurts",
+    "productType" : "PIECE",
+    "quantity" : 9,
+    "price" : 0.66,
+    "discount" : 0.00,
+    "vat" : 18
+  } ]
+}, {
+  "orderId" : 6,
+  "subTotal" : 399.14,
+  "vat" : 87.69,
+  "total" : 486.83,
+  "products" : [ {
+    "name" : "Eggs",
+    "productType" : "PIECE",
+    "quantity" : 4,
+    "price" : 0.16,
+    "discount" : 0.00,
+    "vat" : 18
+  }, {
+    "name" : "Plastic Bags",
+    "productType" : "PIECE",
+    "quantity" : 50,
+    "price" : 0.05,
+    "discount" : 0.00,
+    "vat" : 18
+  }, {
+    "name" : "Lotions",
+    "productType" : "PIECE",
+    "quantity" : 33,
+    "price" : 12,
+    "discount" : 0.00,
+    "vat" : 22
+  } ]
+} ]
